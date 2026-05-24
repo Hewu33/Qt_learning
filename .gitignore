@@ -1,0 +1,34 @@
+# Qt 构建产物
+build-*/
+build/
+Makefile
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+moc_*.cpp
+mocs_compilation.cpp
+ui_*.h
+qrc_*.cpp
+
+# Qt Creator 用户配置
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.qbs.user.*.*
+CMakeLists.txt.user
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 编译临时文件
+*.autosave
+*.tmp
