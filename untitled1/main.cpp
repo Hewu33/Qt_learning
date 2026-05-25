@@ -4,6 +4,7 @@
 #include "loading.h"
 #include "information.h"
 #include "Todo.h"
+#include "Setting.h"
 
 #include <QApplication>
 
@@ -21,7 +22,8 @@ int main(int argc, char *argv[])
 
     // Loading w;
     // Information w;
-    Todo w;
+    // Todo w;
+    Setting w;
     w.show();
 
     return QApplication::exec();

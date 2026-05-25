@@ -118,14 +118,14 @@
 
 ### 第 11 天
 
-- [ ] 今日完成
+- [x] 今日完成
 - `QLabel`：显示文本、图片（QPixmap）、富文本
 - `QProgressBar`：进度条
 - `QListWidget`：列表（增删改项）
 - 练习：做一个简易 Todo 列表（QListWidget + 添加/删除按钮）
 - **产出：** Todo 列表小程序
 
-- [ ] 覆盖路线图项：3.3 QLabel(文本/富文本/pixmap/缩放)、3.3 QProgressBar、3.3 QListWidget(增删改项)
+- [x] 覆盖路线图项：3.3 QLabel(文本/富文本/pixmap/缩放)、3.3 QProgressBar、3.3 QListWidget(增删改项)
 
 ---
 
@@ -133,7 +133,7 @@
 
 ### 第 12 天
 
-- [ ] 今日完成
+- [x] 今日完成
 - `QGroupBox`：分组框（带标题的边框容器）
 - `QTabWidget`：选项卡（多页切换）
 - `QStackedWidget`：页面栈（程序控制翻页，无标签栏）
@@ -141,7 +141,7 @@
 - 练习：做一个"设置面板"——QTabWidget 分三页（通用/显示/高级），每页内各放一个 QScrollArea，内容用 QGroupBox 分组
 - **产出：** 多页设置面板
 
-- [ ] 覆盖路线图项：3.4 QGroupBox、3.4 QTabWidget、3.4 QStackedWidget、3.4 QScrollArea
+- [x] 覆盖路线图项：3.4 QGroupBox、3.4 QTabWidget、3.4 QStackedWidget、3.4 QScrollArea
 
 ### 第 13 天
 
